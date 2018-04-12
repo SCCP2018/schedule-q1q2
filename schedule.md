@@ -6,10 +6,10 @@
 
 |演習 |日付   |題名                  |内容                             |資料     |
 |:---|:-----:|:--------------------|:-------------------------------|:---------|
-|1   |4/12   | Introduction        | LINUX OS, SHELL | [Introduction](https://hackmd.io/s/SyY-NCesg#) |
-|2   |4/19  | Introduction         |  Basic commands | |
-|3   |4/26  | Introduction         |      git     |  |
-|4   |5/10  | Slack            | Slackの導入         |          |
+|1   |4/12   | Introduction        | Slackの導入 |  |
+|2   |4/19  | Literacy         |  LINUX OS, terminal | [Introduction](https://hackmd.io/s/SyY-NCesg#) |
+|3   |4/26  | Literacy         |   基本的なcommand     |  |
+|4   |5/10  | Literacy            | git         |          |
 |5   |5/17  | Git  | Gitの概念            |          |
 |6   |5/24  | C言語           |                         |  |
 |6   |5/31  | C言語           |                         |  |
