@@ -6,7 +6,7 @@
 
 |演習 |日付   |題名                  |内容                             |資料     |
 |:---|:-----:|:--------------------|:-------------------------------|:---------|
-|1   |4/12   | Introduction        | Slackの導入 |  |
+|1   |4/12   | Introduction        | Slackの導入 | [Slackの概要と導入](https://github.com/tspider0176/slack-tutorial-for-SCCP/blob/master/memo.md)  |
 |2   |4/19  | Literacy         |  LINUX OS, terminal | [Introduction](https://hackmd.io/s/SyY-NCesg#) |
 |3   |4/26  | Literacy         |   基本的なcommand     |  |
 |4   |5/10  | Literacy            | git         |          |
