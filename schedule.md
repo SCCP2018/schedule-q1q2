@@ -10,9 +10,10 @@
 |2   |4/19  | Literacy, git, flymakeの導入      |  LINUX OS, terminal, gitとGitHubの説明とその利点, flymakeの導入 | TBA |
 |3   |4/26  | C言語演習  |    AOJ Introduction to Programming 1,2    | TBA |
 |4   |5/10  | C言語演習                  | AOJ Introduction to Programming 3,4         |  TBA    |
-|5   |5/24  | C言語演習            | AOJ Introduction to Programming 5,6     |   TBA       |
-|6   |5/31  | C言語演習            | AOJ Introduction to Programming 7      | TBA |
-|7   |6/7   | C言語演習            | AOJ Introduction to Programming 8           | TBA |
+|5   |5/21  | C言語演習            | AOJ Introduction to Programming 5,6     |   TBA       |
+|6   |5/24  | C言語演習            | AOJ Introduction to Programming 7      | TBA |
+|7   |5/31  | C言語演習            | AOJ Introduction to Programming 8           | TBA |
+|-   |      | Q1期末試験期間 | Q1期末試験期間 |
 |8   |6/14  | C言語演習            | AOJ Introduction to Programming 9 |TBA|
 |9   |6/21  | C言語演習            | AOJ Introduction to Programming 10 |TBA|
 |10  |6/28  | C言語演習            | AOJ Introduction to Programming 11 |TBA|
