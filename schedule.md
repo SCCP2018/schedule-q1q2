@@ -8,7 +8,7 @@
 |:---|:-----:|:--------------------|:-------------------------------|:---------|
 |1   |4/12   | Introduction        | Slackの導入, Introduction | [Slackの概要と導入](https://github.com/tspider0176/slack-tutorial-for-SCCP/blob/master/memo.md), [Introduction](https://hackmd.io/s/SyY-NCesg#)  |
 |2   |4/19  | Literacy, git, flymakeの導入      |  LINUX OS, terminal, gitとGitHubの説明とその利点, flymakeの導入 | [git](https://romtin.gitbooks.io/gittutorial-for-sccp2016/content/) [静的解析ツール](https://github.com/SCCP2018/static-code-analysis-intro/blob/master/doc.md) |
-|3   |4/26  | C言語演習  |    AOJ Introduction to Programming 1,2    | TBA |
+|3   |4/26  | C言語演習  |    AOJ Introduction to Programming 1,2    | [AOJ ITP](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/1) |
 |4   |5/10  | C言語演習                  | AOJ Introduction to Programming 3,4         |  TBA    |
 |5   |5/21  | C言語演習            | AOJ Introduction to Programming 5,6     |   TBA       |
 |6   |5/24  | C言語演習            | AOJ Introduction to Programming 7      | TBA |
