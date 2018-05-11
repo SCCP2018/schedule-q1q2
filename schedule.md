@@ -7,8 +7,8 @@
 |演習 |日付   |題名                  |内容                             |資料     |
 |:---|:-----:|:--------------------|:-------------------------------|:---------|
 |1   |4/12   | Introduction        | Slackの導入, Introduction | [Slackの概要と導入](https://github.com/tspider0176/slack-tutorial-for-SCCP/blob/master/memo.md), [Introduction](https://hackmd.io/s/SyY-NCesg#)  |
-|2   |4/19  | Literacy, git, flymakeの導入      |  LINUX OS, terminal, gitとGitHubの説明とその利点, flymakeの導入 | [git](https://romtin.gitbooks.io/gittutorial-for-sccp2016/content/) [静的解析ツール](https://github.com/SCCP2018/static-code-analysis-intro/blob/master/doc.md) |
-|3   |4/26  | C言語演習  |    AOJ Introduction to Programming 1,2    | [AOJ ITP1_1](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/1) [ITP1_2](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/2)|
+|2   |4/19  | Literacy, git, flymakeの導入      |  LINUX OS, terminal, gitとGitHubの説明とその利点, flymakeの導入 | [git](https://romtin.gitbooks.io/gittutorial-for-sccp2016/content/), [静的解析ツール](https://github.com/SCCP2018/static-code-analysis-intro/blob/master/doc.md) |
+|3   |4/26  | C言語演習  |    AOJ Introduction to Programming 1,2    | [ITP1_1](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/1), [ITP1_2](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/2), [ITP1_1模範解答コード](https://github.com/SCCP2018/AOJ-ITP/tree/master/ITP1_1), [ITP1_2模範解答コード](https://github.com/SCCP2018/AOJ-ITP/tree/master/ITP1_2)|
 |4   |5/10  | C言語演習                  | AOJ Introduction to Programming 3,4         |  [ITP1_3](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/3) [ITP1_4](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/4)    |
 |5   |5/21  | C言語演習            | AOJ Introduction to Programming 5,6     |   [ITP1_5](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/5) [ITP1_6](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/6)       |
 |6   |5/24  | C言語演習            | AOJ Introduction to Programming 7      | [ITP1_7](https://onlinejudge.u-aizu.ac.jp/#/courses/lesson/2/ITP1/7) |
